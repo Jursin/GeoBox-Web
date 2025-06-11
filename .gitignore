@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+.cache/
+.temp/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Debug
+npm-debug.log*
