@@ -5,18 +5,18 @@ outline: deep
 # 相关链接
 
 - <i class="fas fa-globe"></i> [GeoGebra 官网](https://www.geogebra.org/)
-  ![GeoGebra 官网](GeoGebra官网.png)
+  ![GeoGebra 官网](/GeoGebra官网.png)
 - <i class="fas fa-laptop"></i> [GeoGebra 网页版](https://www.geogebra.org/calculator)
-  ![GeoGebra 网页版](GeoGebra网页版.png)
+  ![GeoGebra 网页版](/GeoGebra网页版.png)
 - <i class="fas fa-download"></i> [GeoGebra 下载](https://www.geogebra.org/download)
 
 <div align="center">
 
-  ![GeoGebra 经典6](GeoGebra经典6.png)
+  ![GeoGebra 经典6](/GeoGebra经典6.png)
 
   GeoGebra 经典6
 
-  ![GeoGebra 经典5](GeoGebra经典5.png)
+  ![GeoGebra 经典5](/GeoGebra经典5.png)
 
   GeoGebra 经典5
 
