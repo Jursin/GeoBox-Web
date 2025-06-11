@@ -61,7 +61,7 @@ export default defineConfig({
       },
     },
   },
-}
+},
 
     // 社交链接
     socialLinks: [
