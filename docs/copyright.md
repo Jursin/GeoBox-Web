@@ -5,6 +5,7 @@ outline: deep
 # <span style="color: #2563eb">GeoBox 版权声明</span>
 
 **软件作者**：江苏省兴化市第一中学 代东升
+
 **版权所有**：© 2024 - Until Now All Rights Reserved
 
 ## 使用授权：
