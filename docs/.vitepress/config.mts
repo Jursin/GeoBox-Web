@@ -20,6 +20,7 @@ export default defineConfig({
         items: [
           { text: '开始使用', link: '/guide/start' },
           { text: '使用技巧', link: '/guide/tips' },
+          { text: '常见问题解答', link: '/guide/faq' },
         ]
       },
       { text: '作品展示', link: '/showcase' },
@@ -35,6 +36,7 @@ export default defineConfig({
         items: [
           { text: '开始使用', link: '/guide/start' },
           { text: '使用技巧', link: '/guide/tips' },
+          { text: '常见问题解答', link: '/guide/faq' },
         ]
       },
       { text: '作品展示', link: '/showcase' },

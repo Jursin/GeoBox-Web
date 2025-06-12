@@ -15,6 +15,9 @@ hero:
       text: 使用教程
       link: /guide/start
     - theme: alt
+      text: 常见问题
+      link: /guide/faq
+    - theme: alt
       text: QQ 交流群
       link: https://qm.qq.com/q/5qsNgfa6fm
 

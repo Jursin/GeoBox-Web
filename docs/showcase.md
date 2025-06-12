@@ -6,10 +6,10 @@ outline: deep
 
 <div align="center">
 
-![sample1](/sample1.gif)
+![sample1](/screenshots/sample1.gif)
 sample1
 
-![sample2](/sample2.gif)
+![sample2](/screenshots/sample2.gif)
 sample2
 
 </div>

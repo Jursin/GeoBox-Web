@@ -26,7 +26,7 @@ outline: deep
   Windows 7 和部分早期 Windows 10 系统需要安装 [WebView2 Runtime](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/?form=MA13LH#download) 才能正常使用，可以直接运行文件夹下 `webview2runtime_win7.exe` 在线安装程序 **（需联网）**，如果 Windows 7 系统版本太低，可能会导致打包工具和包文件使用出现异常，建议升级系统。
   :::
 - 运行 `geobox.exe` 主程序，界面如下（支持切换深色/浅色模式）：
-  ![main](/preview.png)
+  ![main](/screenshots/main.png)
 
 ## 使用
 - 单击指定区域并在弹出的窗口中选择文件或直接拖动文件到指定区域以添加 GeoGebra 文件，支持添加多个 GeoGebra 文件，不会影响原文件
