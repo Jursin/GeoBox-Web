@@ -12,8 +12,12 @@ outline: deep
 2. 未经授权不得用于商业用途
 
 ## 常见问题排查
+### 运行 Geobox.exe 时提示 Error `WebView2Loader.dll file not found!` 怎么办？
+![not-found](/screenshots/not-found.png)
 
-### 打包编译时提示"缺失必需文件"如何解决？
+重新解压缩，确保 `WebView2Loader.dll` 文件存在
+
+### 打包编译时提示"缺少文件"如何解决？
 ![missing](/screenshots/missing.png)
 
 此问题通常由以下原因导致：
