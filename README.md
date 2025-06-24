@@ -4,7 +4,7 @@
 
 ## 快速开始
 - 环境要求
-  - Node.js 16+
+  - Node.js 22
   - npm
 - 安装依赖
   ```bash
