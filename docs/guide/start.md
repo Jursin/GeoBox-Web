@@ -6,9 +6,9 @@ outline: deep
 
 ## 准备
 - <Badge type="tip" text="系统要求" /> Windows 7/10/11
-- 下载完 GeoBox2.0 压缩包，将其解压缩到合适文件夹 **（不是直接预览）**，目录结构如下
+- 下载完 GeoBox3.0 压缩包，将其解压缩到合适文件夹 **（不是直接预览）**，目录结构如下
   ```text
-  GeoBox2.0/
+  GeoBox3.0/
   │  geobox.exe
   │
   ├─bin
@@ -36,7 +36,7 @@ outline: deep
 - 点击`打包编译`，选择导出文件类型：
   - EXE 可执行文件(推荐)：生成独立运行的单一可执行文件，无需安装任何 GeoGebra 环境，但有被防火墙和杀毒软件误报的风险
   - 在线网页文件：生成单一网页文件，可在浏览器中打开 **（需联网）**，适合在线分享使用
-  - 离线网页文件：生成单一网页文件，需先[下载 2.0 版本离线包](https://www.xhdds.cn/geobox/offline/geobox2_0_offline.rar)
+  - 离线网页文件：生成单一网页文件，需先[下载 3.0 版本离线包](https://www.xhdds.cn/geobox/offline/geobox2_0_offline.rar)
 
     ::: tip 提示
     将离线包解压缩，再将导出的 `HTML` 文件放到解压缩后的 `geobox2_0_offline` 文件夹内，打开 `HTML` 文件

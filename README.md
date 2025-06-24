@@ -1,6 +1,6 @@
  # GeoBox 官网
 
-这是一个使用 VitePress 搭建的 GeoBox 软件官方网站
+这是一个使用 VitePress 搭建的 GeoBox 软件官方网站｜[直接访问](https://geobox.xhdds.cn/)
 
 ## 快速开始
 - 环境要求

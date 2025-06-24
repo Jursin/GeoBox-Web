@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: GeoBox 2.0
+  name: GeoBox 3.0
   tagline: 一款专为 GeoGebra 设计的演示工具，保护您的 GeoGebra 源文件版权，同时提供强大的演示功能。
   image:
     src: /logo.ico
@@ -42,6 +42,7 @@ features:
     details: 绝无捆绑，请放心使用，如遇杀毒软件报毒请放行
 ---
 
+::: details 
 ## 演示视频
 
 <div class="bilibili-video-card">
@@ -53,6 +54,7 @@ features:
     />
   </div>
 </div>
+:::
 
 <style>
 .bilibili-video-card {
@@ -78,3 +80,5 @@ features:
 }
 
 </style>
+
+网站开发：[Jursin](https://bonjour.bio/jursin)
