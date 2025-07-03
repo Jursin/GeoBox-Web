@@ -42,9 +42,8 @@ features:
     details: 绝无捆绑，请放心使用，如遇杀毒软件报毒请放行
 ---
 
-::: details 
+::: details &nbsp;
 ## 演示视频
-
 <div class="bilibili-video-card">
   <div class="video-wrapper">
     <iframe
