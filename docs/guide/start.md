@@ -45,7 +45,7 @@ outline: deep
   - 离线网页文件：生成单一网页文件，需先[下载 3.0 版本离线包](https://www.xhdds.cn/geobox/offline/geobox3.0_offline.rar)
 
     ::: tip 提示
-    将下载的离线包压缩包**解压缩**，再将导出的**离线网页 `HTML` 文件**放到解压缩后的 `geobox2_0_offline` 文件夹内，再用浏览器打开 `HTML` 文件即可
+    将下载的离线包压缩包**解压缩**，再将导出的**离线网页 `HTML` 文件**放到解压缩后的 `geobox3_0_offline` 文件夹内，再用浏览器打开 `HTML` 文件即可
     :::
 
 ## 更新日志
