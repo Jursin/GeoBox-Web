@@ -82,8 +82,8 @@ export default defineConfig({
     ],
     
     footer: {
-      message: '© 代东升 | 2024-Until Now All Rights Reserved',
-      copyright: ''
+      copyright: '© 代东升 | 2024-Until Now All Rights Reserved',
+      message: '<a href="https://beian.miit.gov.cn/" target="_blank">苏ICP备2024096921号-1</a>'      
     },
     outline: {
       level: [2, 3],
@@ -118,8 +118,6 @@ export default defineConfig({
     darkModeSwitchTitle: '切换到深色模式',
     skipToContentLabel: '跳转到内容'
   },
-
-  cleanUrls: true,
   
   markdown: {
     theme: {
