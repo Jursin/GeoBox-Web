@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "GeoBox-Web",
   description: "GeoBox 官方网站",
-  base: '/GeoBox-Web/',
+  base: '/',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'theme-color', content: '#FE6B01' }]
