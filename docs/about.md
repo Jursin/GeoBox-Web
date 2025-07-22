@@ -20,7 +20,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://www.github.com/Jursin.png',
+    avatar: 'http://q2.qlogo.cn/headimg_dl?dst_uin=1836059252&spec=100',
     name: 'Jursin',
     title: '网站开发',
     links: [
