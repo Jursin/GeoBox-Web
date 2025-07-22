@@ -32,3 +32,12 @@
 .medium-zoom-image {
   z-index: 9999 !important;/* 给的值是21，但是实测盖不住，直接999 */
 }
+
+/* VPFeatures 页卡悬浮效果 */
+.VPFeatures .items .item {
+  transition: transform 0.3s;
+}
+
+.VPFeatures .items .item:hover {
+  transform: translateY(-5px);
+}
