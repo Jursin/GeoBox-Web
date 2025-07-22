@@ -1,23 +1,7 @@
----
-outline: deep
----
+# 友情链接
 
-# 相关链接
+<Linkcard url="https://www.geogebra.org/" title="GeoGebra 官网" description="https://www.geogebra.org/" logo="/svg/geogebra.svg"/>
 
-- <i class="fas fa-globe"></i> [GeoGebra 官网](https://www.geogebra.org/)
-  ![GeoGebra 官网](/preview/GeoGebra官网.png)
-- <i class="fas fa-laptop"></i> [GeoGebra 网页版](https://www.geogebra.org/calculator)
-  ![GeoGebra 网页版](/preview/GeoGebra网页版.png)
-- <i class="fas fa-download"></i> [GeoGebra 下载](https://www.geogebra.org/download)
+<Linkcard url="https://www.geogebra.org/calculator" title="GeoGebra 网页版" description="https://www.geogebra.org/calculator" logo="/svg/geogebra.svg"/>
 
-<div align="center">
-
-  ![GeoGebra 经典6](/preview/GeoGebra经典6.png)
-
-  GeoGebra 经典6
-
-  ![GeoGebra 经典5](/preview/GeoGebra经典5.png)
-
-  GeoGebra 经典5
-
-</div>
+<Linkcard url="https://www.geogebra.org/download" title="GeoGebra 下载" description="https://www.geogebra.org/download" logo="/svg/geogebra.svg"/>

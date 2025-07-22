@@ -1,6 +1,9 @@
 ---
 layout: home
 
+title: GeoBox
+titleTemplate: GeoGebra 演示工具
+
 hero:
   name: GeoBox 3.0
   tagline: 一款专为 GeoGebra 设计的演示工具，保护您的 GeoGebra 源文件版权，同时提供强大的演示功能。
@@ -44,40 +47,9 @@ features:
 
 ::: details &nbsp;
 ## 演示视频
-<div class="bilibili-video-card">
-  <div class="video-wrapper">
-    <iframe
-      src="//player.bilibili.com/player.html?isOutside=true&bvid=BV1Z1jyz7Evc&p=1&autoplay=0"
-      frameborder="no"
-      allowfullscreen
-    />
-  </div>
-</div>
+<BilibiliVideo bvid="BV1Z1jyz7Evc" />
 :::
 
-<style>
-.bilibili-video-card {
-  max-width: 900px;
-  margin: 2rem auto;
-  border: 2px solid #eee;
-  border-radius: 12px;
-  box-shadow: 0 8px 40px rgba(0,0,0,0.08);
-  background: #fafbfc;
-  overflow: hidden;
-}
-.video-wrapper {
-  position: relative;
-  width: 100%;
-  padding-bottom: 56.25%;
-}
-.video-wrapper iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-</style>
-
-网站开发：[Jursin](https://bonjour.bio/jursin)
+<div align="center">
+本站总访问量 <span id="busuanzi_value_site_pv" /> 次 | 本站访客数 <span id="busuanzi_value_site_uv" /> 人次
+</div>

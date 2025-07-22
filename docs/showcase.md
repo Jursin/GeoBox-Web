@@ -1,7 +1,3 @@
----
-outline: deep
----
-
 # 作品展示
 
 <div align="center">

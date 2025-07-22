@@ -1,8 +1,5 @@
----
-outline: deep
----
-
 # 开始使用
+<ArticleMetadata />
 
 ## 准备
 - <Badge type="tip" text="系统要求" /> **Windows 7/10/11**
@@ -50,7 +47,7 @@ outline: deep
 
 ## 更新日志
 ::: warning 注意
-⚠ 更新前请先备份好原数据
+更新前请先备份好原数据
 :::
 
 ### 3.05

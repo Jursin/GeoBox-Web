@@ -1,0 +1,34 @@
+:root {
+  --vp-c-brand-1: #FE6B01;
+  --vp-c-brand-2: #fd7c26;
+  --vp-c-brand-3: #fe8139;
+}
+
+.dark {
+  --vp-c-brand-1: #FE6B01;
+  --vp-c-brand-2: #E05D00;
+  --vp-c-brand-3: #C25000;
+}
+
+/* 以前的vp-c-brand已弃用 */
+
+/* 也可自行单独修改brand按钮 */
+/* :root {
+  --vp-button-brand-border: #F6CEEC;
+  --vp-button-brand-text: #F6CEEC;
+  --vp-button-brand-bg: #D939CD;
+
+  --vp-button-brand-hover-border: #F6CEEC;
+  --vp-button-brand-hover-text: #fff;
+  --vp-button-brand-hover-bg: #D939CD;
+
+  --vp-button-brand-active-border: #F6CEEC;
+} */
+
+.medium-zoom-overlay {
+  z-index: 30;
+}
+
+.medium-zoom-image {
+  z-index: 9999 !important;/* 给的值是21，但是实测盖不住，直接999 */
+}
