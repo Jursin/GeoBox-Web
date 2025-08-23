@@ -24,6 +24,7 @@ export default defineConfig({
         ]
       },
       { text: '作品展示', link: '/showcase' },
+      { text: '更新日志', link: '/changelog' },
       { text: '友情链接', link: '/links' },
       { text: '关于', link: '/about' }
     ],
@@ -40,6 +41,7 @@ export default defineConfig({
         ]
       },
       { text: '作品展示', link: '/showcase' },
+      { text: '更新日志', link: '/changelog' },
       { text: '友情链接', link: '/links' },
       { text: '关于', link: '/about' }
     ],

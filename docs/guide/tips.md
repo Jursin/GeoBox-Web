@@ -7,3 +7,6 @@
   ![toolbar](/screenshots/toolbar.png)
 - 使用触摸屏设备时，请使用**双指**旋转 3D 视图
 - 播放时还支持**激光电子笔**和键盘上的 `PgUp` 和 `PgDn` 键前后翻页
+  ::: warning
+  如果勾选 ![fullscreen](/screenshots/fullscreen.png) ，则无法使用激光电子笔和键盘翻页，在打开打包后的文件时会失去窗口焦点，导致无法通过按键 `PgUp` 、`PgDn` 翻页，需要**点击屏幕任意位置**来恢复窗口焦点。
+  :::

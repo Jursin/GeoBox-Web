@@ -45,6 +45,10 @@ features:
     details: 绝无捆绑，请放心使用，如遇杀毒软件报毒请放行
 ---
 
+::: warning 注意
+本软件仅开发了 Windows 版本，无 Mac 版软件！
+:::
+
 ::: details &nbsp;
 ## 演示视频
 <BilibiliVideo bvid="BV1Z1jyz7Evc" />
