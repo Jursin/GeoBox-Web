@@ -28,3 +28,5 @@ jobs:
           local-dir: docs/.vitepress/dist/
           server-dir: /
           dangerous-clean-slate: true
+          ftp-extra-settings: |
+            {"passive": false}
