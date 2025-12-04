@@ -1,16 +1,34 @@
 {
-  "devDependencies": {
-    "vitepress": "^1.6.3"
-  },
+  "name": "geo-box-web",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "packageManager": "pnpm@10.24.0",
+  "author": "Jursin <jursin@126.com>",
+  "license": "MIT",
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:build": "vuepress build docs --clean-cache --clean-temp",
+    "docs:dev": "vuepress dev docs",
+    "docs:dev-clean": "vuepress dev docs --clean-cache --clean-temp",
+    "docs:preview": "http-server docs/.vuepress/dist",
+    "vp-update": "pnpm dlx vp-update"
   },
-  "dependencies": {
-    "@fortawesome/fontawesome-free": "^6.7.2",
-    "busuanzi.pure.js": "^1.0.3",
-    "medium-zoom": "^1.1.0",
-    "vitepress-plugin-group-icons": "^1.6.1"
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.26",
+    "http-server": "^14.1.1",    
+    "swiper": "^12.0.3",
+    "typescript": "^5.9.3",
+    "vue": "^3.5.25",
+    "vuepress": "2.0.0-rc.26",
+    "vuepress-theme-plume": "1.0.0-rc.180"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@parcel/watcher",
+      "esbuild"
+    ]
+  },
+  "engines": {
+    "node": "^20.6.0 || >=22.0.0"
   }
 }

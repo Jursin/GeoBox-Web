@@ -1,11 +1,17 @@
-# 作品展示
+---
+pageLayout: page
+title: 作品展示
+---
 
 <div align="center">
+<h2 class="title">作品展示</h2>
 
-![sample1](/screenshots/sample1.gif)
-sample1
-
-![sample2](/screenshots/sample2.gif)
-sample2
+<Swiper :items="['/screenshots/sample1.gif', '/screenshots/sample2.gif']" />
 
 </div>
+
+<style scoped>
+.title {
+  margin: 20 !important;
+}
+</style>
