@@ -35,6 +35,12 @@ export default defineNavbarConfig([
         },
         link: 'https://www.geogebra.org/download'
       },
+      { text: 'GeoGebra 必学必用经验',
+        icon: {
+          svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 277 282"><defs><style>.cls-1{stroke:lime;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5{fill:none;}.cls-1,.cls-3{stroke-width:2.5px;}.cls-1,.cls-3,.cls-4,.cls-5{stroke-linecap:round;stroke-linejoin:round;}.cls-6{fill:rgba(0, 255, 0, .35);}.cls-7{fill:rgba(0, 0, 255, .35);}.cls-3{stroke:blue;}.cls-4{stroke:red;}.cls-4,.cls-5{stroke-width:6.5px;}.cls-5{stroke:#000;}.cls-8{clip-path:url(#clippath);}.cls-9{fill:rgba(255, 255, 255, 0);}</style><clipPath id="clippath"><rect class="cls-2" width="277" height="282"/></clipPath></defs><g class="cls-8"><g><rect class="cls-9" width="277" height="282"/><path class="cls-5" d="M266.36,142.09c0,70.83-57.42,128.26-128.26,128.26S9.84,212.92,9.84,142.09,67.27,13.83,138.1,13.83s128.26,57.42,128.26,128.26Z"/><path class="cls-6" d="M206.27,153.05c0,9.11-7.39,16.5-16.5,16.5s-16.5-7.39-16.5-16.5,7.39-16.5,16.5-16.5,16.5,7.39,16.5,16.5Z"/><path class="cls-1" d="M206.27,153.05c0,9.11-7.39,16.5-16.5,16.5s-16.5-7.39-16.5-16.5,7.39-16.5,16.5-16.5,16.5,7.39,16.5,16.5Z"/><path class="cls-7" d="M133.21,192.19c0,9.11-7.39,16.5-16.5,16.5s-16.5-7.39-16.5-16.5,7.39-16.5,16.5-16.5,16.5,7.39,16.5,16.5Z"/><path class="cls-3" d="M133.21,192.19c0,9.11-7.39,16.5-16.5,16.5s-16.5-7.39-16.5-16.5,7.39-16.5,16.5-16.5,16.5,7.39,16.5,16.5Z"/><path class="cls-4" d="M49.46,230.62c14.31,26.71,73.31,22.96,131.8-8.36,58.48-31.33,94.29-78.37,79.99-105.08-14.31-26.71-73.31-22.96-131.8,8.36-58.48,31.33-94.29,78.37-79.99,105.08Z"/></g></g></svg>'
+        },
+        link: 'https://kz16.top/ggb/ggbpptReadMe.html'
+      },
     ]
   }
 ])

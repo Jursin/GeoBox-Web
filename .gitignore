@@ -2,8 +2,8 @@
 node_modules/
 
 # Build
-docs/.vitepress/dist/
-docs/.vitepress/cache/
+docs/.vuepress/dist/
+docs/.vuepress/cache/
 .cache/
 .temp/
 
