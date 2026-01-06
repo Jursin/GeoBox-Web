@@ -2,9 +2,8 @@ import { defineThemeConfig } from 'vuepress-theme-plume'
 import navbar from './navbar'
 import collections from './collections'
 
-/**
- * @see https://theme-plume.vuejs.press/config/basic/
- */
+
+const currentYear = new Date().getFullYear()
 export default defineThemeConfig({
   logo: '/logo.ico',
 
@@ -31,7 +30,7 @@ export default defineThemeConfig({
   /* 站点页脚 */
   footer: {
     message: '<img src="/icon/miit.ico" width="14" height="14" style="margin-right: 5px; display: inline-block; vertical-align: middle;"><a href="http://beian.miit.gov.cn/" target="_blank" >苏ICP备2024096921号-1</a>',
-    copyright: '© 代东升 | 2024-Until Now All Rights Reserved'
+    copyright: `© 代东升 | 2024-${currentYear} All Rights Reserved`
   },
 
   navbar,
